@@ -1,0 +1,15 @@
+# // https://www.phpmyadmin.net/downloads/
+
+# BASIC_SELECT 1
+SELECT subject from posts
+# BASIC_SELECT 2
+SELECT * from posts
+# BASIC_SELECT 3
+SELECT * from posts WHERE id=1
+# BASIC_SELECT 4
+SELECT * from posts 
+WHERE id=1
+AND subject='Enjoying Php'
+
+
+
